@@ -15,7 +15,7 @@ This will showcase all the certifications i earn on THM, and CompTiA to showcase
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
 | SAL1 - Security Analyst Level 1 | SOC Tier 1 | 🔄 73% Complete | 2025 |
-| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 📋 Post-Hire | 2026-2027 |
+| SAL2 - Security Analyst Level 2 | SOC Tier 2 | 📋 Post-Hire immediate certification | 2026-2027 |
 
 ### Phase 3: Industry Validation (Post-Hire)
 | Certification | Purpose | Target |
