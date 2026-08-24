@@ -8,13 +8,13 @@ This will showcase all the certifications i earn on THM, and CompTiA to showcase
 ### Phase 1: Foundations (Complete)
 | Certification | Focus | Status | Date |
 |--------------|-------|--------|------|
-| SEC0 - Pre Security | IT Fundamentals | ✅ Complete | 2025 |
-| SEC1 - Cyber Security 101 | Security Basics | 🔄 Certify Soon | Path Done |
+| SEC0 - Pre Security | IT Fundamentals | ✅ Complete | March 2026 |
+| SEC1 - Cyber Security 101 | Security Basics | Complete | August 2026  |
 
 ### Phase 2: Blue Team Specialization (Now)
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
-| SAL1 - Security Analyst Level 1 | SOC Tier 1 | 🔄 73% Complete | 2025 |
+| SAL1 - Security Analyst Level 1 | SOC Tier 1 | 🔄 87% Complete | 2026 |
 | SAL2 - Security Analyst Level 2 | SOC Tier 2 | 📋 Post-Hire immediate certification | 2026-2027 |
 
 ### Phase 3: Industry Validation (Post-Hire)
