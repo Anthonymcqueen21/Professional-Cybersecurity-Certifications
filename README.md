@@ -15,7 +15,7 @@ This will showcase all the certifications I earn on THM and CompTIA to showcase 
 ### Phase 2: Blue Team Specialization (Now)
 | Certification | Focus | Status | Target |
 |--------------|-------|--------|--------|
-| [SAL1 - Security Analyst Level 1](./SAL1-Security-Analyst-Level-1/) | SOC Tier 1 | 🔄 87% Complete | September 2026 |
+| [SAL1 - Security Analyst Level 1](./SAL1-Security-Analyst-Level-1/) | SOC Tier 1 | 🔄 95% Complete | September/October 2026 |
 | SAL2 - Security Analyst Level 2 | SOC Tier 2 | 📋 Post-Hire | 2026-2027 |
 
 ### Phase 3: Industry Validation (Post-Hire)
